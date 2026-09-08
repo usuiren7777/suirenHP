@@ -355,7 +355,7 @@ th, td {
 			</tr>
 			
 			<tr>
-				<td>市小学生水泳大会</td><td>9月6日（日）<br><a href="2026小学生大会要項.pdf">大会要項(pdf)</a><br><a href="2026年小学生大会申込書.xlsx">申込用紙(Excel)</a><br><a href="2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市小学生水泳大会</td><td>9月6日（日）<br><a href="2026小学生大会要項.pdf">大会要項(pdf)</a><br><a href="2026年小学生大会申込書.xlsx">申込用紙(Excel)</a><br><a href="https://www.usuiren.com/event/2026小学生大会2次要項.pdf">2026小学生大会2次要項</a><br><a href="https://www.usuiren.com/event/2026小学生大会リレーオーダー用紙.pdf">2026小学生大会リレーオーダー用紙</a><br><a href="2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 
 		</table>
