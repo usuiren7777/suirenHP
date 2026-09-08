@@ -403,7 +403,7 @@ th, td {
       <p class="auto-style">宇都宮市水泳連盟事務局<br>〒320-0043<br>宇都宮市桜5-2-5　（ビッグツリースポーツクラブ内）</p>
       <p class="auto-style">
 	  <img src="icon_tel.gif" class="auto-style5">&emsp;TEL:028-639-7777<br>
-	  <a href="mailto:usuiren7777@gmail.com">お問い合わせメール作成はここをクリック</a>
+	  <a href="mailto:usuiren7777@gmail.com">お問い合わせメール作成は ← ここをクリック</a>
 
   <!--メイン終了-->
 
