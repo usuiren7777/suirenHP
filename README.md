@@ -284,7 +284,7 @@ th, td {
       <h2>お知らせ<span>News &amp; Tpoics</span></h2>
       <dl class="auto-style">        
       
-		<h2><dt>2026.06.08</dt>
+		<h2><dt>2026.08.25</dt>
         <dd><a>年間予定表</a>を更新しました。
         <br>
         </dd></h2>
