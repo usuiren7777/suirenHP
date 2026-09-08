@@ -240,7 +240,7 @@ th, td {
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2026sep08.png" alt="アクセス用QRコード" width="100">QR for Access</p><!--
+<p align="left"> <img src="QR_2026Sep08_.png" alt="アクセス用QRコード" width="100">QR for Access</p><!--
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">宇都宮市水泳連盟</marquee></p>
 -->
 
